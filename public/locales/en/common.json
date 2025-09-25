@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "home": "Home",
+    "advantages": "Advantages",
+    "about": "About Us",
+    "achievements": "Achievements",
+    "projects": "Our Projects",
+    "licenses": "Licenses"
+  },
+  "hero": {
+    "title1": "Stroy Engineering",
+    "title2": "Karaganda",
+    "subtitle": "Reliable Technical Supervision – Your Key to Success in Construction",
+    "stat_projects": "Completed Projects",
+    "stat_experts": "Technical Supervision Experts",
+    "years": "years",
+    "stat_years": "Proven Experience in the Market",
+    "reliability.title": "Reliability",
+    "reliability.text": "High Quality and Reliability of Services",
+    "optimization.title": "Optimization",
+    "optimization.text": "Efficient Use of Client Funds and Budget Optimization",
+    "quality.title": "Quality",
+    "quality.text": "Timely Control of Completed Works and Applied Materials",
+    "transparency.title": "Transparency",
+    "transparency.text": "Comprehensive Reporting on All Project Stages and Quality for Transparency and Trust"
+  },
+  "AboutUs": {
+    "AboutCompany": "About Us",
+    "CompanyName1": "LLP «Stroy Engineering",
+    "CompanyName2": "Karaganda» - a provider since",
+    "CompanyName3": "2006.",
+    "CompanyDesc1": "Stroy Engineering Karaganda LLP – Experienced Since 2006",
+    "CompanyDesc2": "We provide professional services in:",
+    "List1": "Technical Supervision for civil and industrial facilities",
+    "List2": "Inspection of Buildings and Structures (B&S)",
+    "List3": "Construction and Installation Works (CIW)",
+    "List4": "Industrial Safety Expertise (ISE)",
+    "TextUnderList": "We strictly comply with legal and regulatory requirements in construction, ensuring the highest quality and reliability of our work.",
+    "OurProjectsButton": "Our Projects",
+    "ProjectYear": "Projects of Varying Complexity Annually",
+    "Timeliness": "Timeliness",
+    "Impartiality": "Impartiality",
+    "Efficiency": "Efficiency",
+    "OurPrinciples": "Our Principles",
+    "OurGoal": "Our Goal",
+    "GoalText": "To provide clients with professional construction services that ensure quality,",
+    "GoalText2": "safety, and long-term results."
+  },
+  "achievements": {
+    "title": "Our Achievements",
+    "exp_years_title": "20 years",
+    "exp_years_subtitle": "Years of Successful Experience in Technical Supervision",
+    "projects_per_year_title": "22-24",
+    "projects_per_year_subtitle": "Projects of Varying Complexity Annually",
+    "clients_title": "Clients",
+    "clients_subtitle": "We provide services to clients across various sectors, including government, industry, and the quasi-public sector",
+    "development_title": "Development",
+    "development_subtitle": "Our commitment to continuous development and improvement makes us a reliable partner for our clients.",
+    "total_projects_title": "300+",
+    "total_projects_subtitle": "Completed Projects",
+    "geo_title": "Projects",
+    "geo_subtitle": "Successfully completed projects across Kazakhstan and partnered with international clients.",
+    "experts_title": "24+",
+    "experts_subtitle": "Technical Supervision Experts",
+    "partnership_title": "Partnership",
+    "partnership_subtitle": "We value long-term relationships and always focus on results that benefit our clients."
+  },
+  "projects": {
+    "title": "Our Projects",
+    "gallery": "Project Gallery",
+    "moreButton": "View More",
+    "closeButton": "Close",
+    "table": {
+      "name": "Project Name",
+      "year": "Year"
+    },
+    "list": {
+      "project1": {
+        "name": "LLP \"Remstroy SS\"",
+        "description": "Technical supervision during contractor work on zoo territory improvement"
+      },
+      "project2": {
+        "name": "LLP firm \"Rapid\"",
+        "description": "Technical supervision of construction of GSHO repair building, Karaganda, Poltavskaya st. 25"
+      },
+      "project3": {
+        "name": "LLP \"Araks-2005\"",
+        "description": "Technical supervision of checkpoint construction, Zhayrem settlement"
+      },
+      "project4": {
+        "name": "LLP \"Bakyt M\"",
+        "description": "Technical supervision of two-story office building construction, Karaganda, Amanzholova st. 46"
+      },
+      "project5": {
+        "name": "JSC IP \"Efes Karaganda Brewery\"",
+        "description": "Technical supervision: Reconstruction of advertising warehouse into finished product warehouse"
+      },
+      "project6": {
+        "name": "DB JSC \"Sberbank\"",
+        "description": "Technical supervision of construction object \"Reconstruction of DB JSC Sberbank Russia branch building, Karaganda, Shakhterov ave. 35/1\""
+      }
+    }
+  },
+  "licenses": {
+    "title": "Permits and Licenses",
+    "description": "We possess all the necessary permits and licenses required for our operations. This includes a certificate of accreditation for legal entities and licenses for surveying, construction and installation, and design works."
+  },
+  "footer": {
+    "slogan": "Reliable Technical Supervision – Your Key to Success in Construction",
+    "contacts": "Contact Us",
+    "address": "Location",
+    "actual": "Physical Address",
+    "kazakhstan": "Republic of Kazakhstan",
+    "astana": "Astana",
+    "street1": "Turan Avenue, 50",
+    "legal": "Legal Address",
+    "karaganda": "Karaganda",
+    "street2": "Kazakhbek Bi District, Turgenyev Street, 4/16",
+    "up": "Back to Top"
+  },
+  "lang": {
+    "ru": "Russian",
+    "kk": "Kazakh",
+    "en": "English"
+  }
+}
