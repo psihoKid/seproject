@@ -15,6 +15,7 @@
     "stat_experts": "Technical Supervision Experts",
     "years": "years",
     "More": "More than",
+    "Plus": "+",
     "stat_years": "Proven Experience in the Market",
     "reliability.title": "Reliability",
     "reliability.text": "High Quality and Reliability of Services",
@@ -23,7 +24,9 @@
     "quality.title": "Quality",
     "quality.text": "Timely Control of Completed Works and Applied Materials",
     "transparency.title": "Transparency",
-    "transparency.text": "Comprehensive Reporting on All Project Stages and Quality for Transparency and Trust"
+    "transparency.text": "Comprehensive Reporting on All Project Stages and Quality for Transparency and Trust",
+    "DenAstam": "",
+    "TenAstam": ""
   },
   "AboutUs": {
     "AboutCompany": "About Us",
@@ -49,22 +52,14 @@
   },
   "achievements": {
     "title": "Our Achievements",
-    "exp_years_title": "20 years",
-    "exp_years_subtitle": "Years of Successful Experience in Technical Supervision",
-    "projects_per_year_title": "22-24",
-    "projects_per_year_subtitle": "Projects of Varying Complexity Annually",
-    "clients_title": "Clients",
-    "clients_subtitle": "We provide services to clients across various sectors, including government, industry, and the quasi-public sector",
-    "development_title": "Development",
-    "development_subtitle": "Our commitment to continuous development and improvement makes us a reliable partner for our clients.",
-    "total_projects_title": "300+",
-    "total_projects_subtitle": "Completed Projects",
-    "geo_title": "Projects",
-    "geo_subtitle": "Successfully completed projects across Kazakhstan and partnered with international clients.",
-    "experts_title": "24+",
-    "experts_subtitle": "Technical Supervision Experts",
-    "partnership_title": "Partnership",
-    "partnership_subtitle": "We value long-term relationships and always focus on results that benefit our clients."
+    "titleOne": "20+ years of experience and a team of 25 experts",
+    "subtitleOne": "A reliable professional team with extensive experience.",
+    "titleTwo": "300+ completed projects",
+    "subtitleTwo": "Each year we successfully deliver up to 25 projects of varying complexity across Kazakhstan and abroad.",
+    "titleThree": "Development",
+    "subtitleThree": "We continuously improve our processes and the quality of our services to remain a reliable partner for our clients.",
+    "titleFour": "Partnership",
+    "subtitleFour": "We value long-term relationships and focus on results that bring real benefits to our clients and partners."
   },
   "projects": {
     "title": "Our Projects",
@@ -77,28 +72,36 @@
     },
     "list": {
       "project1": {
-        "name": "LLP \"Remstroy SS\"",
-        "description": "Technical supervision during contractor work on zoo territory improvement"
+        "name": "LLP «Beineu-Shymkent Gas Pipeline»",
+        "description": "Technical supervision services for the completion of construction of maintenance and operation sites Shornak, Karaozek, Saksaulsk, Aksuat"
       },
       "project2": {
-        "name": "LLP firm \"Rapid\"",
-        "description": "Technical supervision of construction of GSHO repair building, Karaganda, Poltavskaya st. 25"
+        "name": "SE «Karaganda Reservoirs» of the Department of Natural Resources and Environmental Regulation of the Karaganda Region",
+        "description": "Technical supervision of the capital repair of the Aktumsik and Mukhtar reservoirs in Shet district"
       },
       "project3": {
-        "name": "LLP \"Araks-2005\"",
-        "description": "Technical supervision of checkpoint construction, Zhayrem settlement"
+        "name": "State Institution «Akim’s Office of Abai city, Karaganda Region»",
+        "description": "Current repair works of residential buildings, structures and premises"
       },
       "project4": {
-        "name": "LLP \"Bakyt M\"",
-        "description": "Technical supervision of two-story office building construction, Karaganda, Amanzholova st. 46"
+        "name": "State Institution «Department of Housing and Communal Services, Passenger Transport and Highways of Shakhtinsk city»",
+        "description": "Current repair works of football fields"
       },
       "project5": {
-        "name": "JSC IP \"Efes Karaganda Brewery\"",
-        "description": "Technical supervision: Reconstruction of advertising warehouse into finished product warehouse"
+        "name": "State Institution «Department of Passenger Transport and Highways of Karaganda Region»",
+        "description": "Technical supervision of the project: Reconstruction of the regional road «Novodolinka-Shakhan-Molodetskoye»"
       },
       "project6": {
-        "name": "DB JSC \"Sberbank\"",
-        "description": "Technical supervision of construction object \"Reconstruction of DB JSC Sberbank Russia branch building, Karaganda, Shakhterov ave. 35/1\""
+        "name": "JSC «Ozenmunaigas»",
+        "description": "Technical supervision of the facility: «Arrangement of injection wells after drilling» DPRM"
+      },
+      "project7": {
+        "name": "State Institution «Department of Public Procurement of Karaganda Region»",
+        "description": "Technical supervision of the facility: «Construction of engineering and communication infrastructure to the territory of the tourist zone «Bugyly» (power grids, water supply, sewerage, communication cable line)»"
+      },
+      "project8": {
+        "name": "State Institution «Department of Passenger Transport and Highways of Karaganda Region»",
+        "description": "Technical supervision services for the «Medium repair of the district road KM-AK-36 ‘Aktogay – Shylym – Akzharyk’, km 28–43 (15 km) of the Aktogay district, Karaganda region»."
       }
     }
   },
